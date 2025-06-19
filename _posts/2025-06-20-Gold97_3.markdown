@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "Pokémon Gold 97 - Weiter geht es mit geändertem Team"
+date:   2025-06-20 01:08:55 +0200
+categories: Pokemon
+---
+In den letzten Tagen ging es kontinuierlich weiter in Pokémon Gold 97 Reforged. <br>
+Zunächst hatte das Spiel mir ein paar Klötze zwischen die Beine geworfen. Der letzte Post hatte damit geendet, dass ich im Slowpoke Well Prof. Eich und seinen Gehilfen treffen sollte um Team Rocket zu vertreiben. Leider bin ich mit meinem Team mehr oder weniger gegen eine Wand gelaufen. War ich zuvor mit im Schnitt Level 20 gut durch Trainerkämpfe und Arenen gekommen, war auf einmal Schluss. Team Rocket hatte Level 25 Pokémon und selbst mit Typvorteil habe ich große Schwierigkeiten gehabt. Ich verstehe nicht ganz warum und wie, aber nach Arena 3 gab es einen regelrechten Difficulty Spike. Statt mich darüber hinaus zu Grinden habe ich noch einmal mein Team Setup überdacht und angepasst. Mein aktuelles Team sieht nun wie folgt aus: <br>
+-	Ampharos (gefangen als Waaty)
+-	Dynabear (3. Stufe des Starters)
+-	Anchorage (für Krabby)
+-	Mr. Mime (entwickelt aus Ballerine)
+-	Tangela (für Hoppip)
+-	Murkrow (für Hoothoot)
+
+Plötzlich wurde ein Schuh aus dem Setup und ich bin durch Team Rockets Reihen gepflügt. <br><br>
+Weiter ging es dann mit dem Arenaleiter 4 – Morty und seine Geist Pokémon. Wie gehabt selbes Spiel wie im Original. Das Rätsel in der Arena war nicht so toll. Trial and Error unsichtbare Wege über einen schwarzen Abgrund finden. Naja.<br><br>
+Weiter nach Sunpoint City. Hier wieder eine kleine Überraschung was Flora und Fauna angeht. Urlaubsgefühle im Südsee Bereich. Palmen und Wasser prägten das Bild. Und wieder mit von der Partie, Team Rocket, dass am Hafen geheimnisvoll Dinge auf ein Schiff verladen hat. Natürlich haben wir das Vorhaben gestört und einen nächsten Story Beat vor die Füße geworfen bekommen. Team Rocket hat ein Prof. Eich Double angeheuert, was sie mit Ihm vorhaben bleibt noch ein Rätsel. Aber ein cooler Moment! Kurz war nicht klar ob Prof. Eich die Seiten gewechselt hat. Eventuell hätte man den Twist noch etwas hinauszögern können. <br><br>
+Nachdem das kurze Intermezzo mit Team Rocket vorbei war, gab es eine kleine Überraschung. Von einem Random NPC habe gabs ein Skateboard. Mit dem Skateboard kann man sich wie mit dem Fahrrad durch die Welt bewegen. Der Unterschied zum Rad ist, dass das Skateboard auch in Höhlen funktioniert. Logik? Die Suspension of Disbelief muss bei Pokémon eh seit eh und je groß sein. Also lieber nicht drüber nachdenken. Die Animation des Skateboards ist durchaus gelungen und somit ist das Skateboard jetzt mein neues Standardfortbewegungsmittel. <br><br>
+Nach einem kleinen Walddungeon und einem kleinen kampflosen Wiedersehen mit dem Rivalen ging es weiter Richtung Arena 5. Hier gab es wieder einen kleinen abrupten Levelsprung. Dieses mal aber nicht so schlimm, da das jetzige Team vom Setup ausgewogener ist. Gerade Ampharos ist ein richtiger MVP. <br> 
+Arena 5 mit Jasmine und ihren Stahlpokémon war kein Problem. Das eigentlich Interessante ist, dass Chuck in den original Spielen jetzt eigentlich an der Reihe sein sollte. Bin sehr gespannt ob er jetzt an anderer Stelle eingesetzt wird. <br><br>
+Weiter gings Richtung Norden, schnell änderte sich die Landschaft und ich befand mich mitten im Schnee. Wieder einmal sehr schön! Ich finde wirklich, dass die Landschaften in diesem Hack außergewöhnlich schön aussehen. Und ich frage mich warum das seinerzeit wohl wieder verworfen wurde. In der Space World Demo war das wohl auch so vorhanden. <br><br>
+In der Zwischenzeit gabs auch noch die VM Fliegen geschenkt – jetzt ist Backtracking auch für mich erträglich. <br>
+Angekommen in „Blue Forest“ gab es einen kleinen Dungeon zu durchkämmen um den Arenaleiter Pryce zu finden und ihn in die Arena zurück zu rufen. Mit Dynabear’s Flammenwurf waren Pryce’s Eis Pokémon im nu geschmolzen. Neben dem Orden gabs von Pryce’s Frau auch noch VM Whirlpool geschenkt. Die Reise kann nun weiter gehen in Richtung Süden nach Stand City. <br><br>
+Kurz vor Stand City gab es noch eine kurze Begegnung mit dem Rivalen. Dieses mal wollte er einen Kampf obwohl ich recht ausgezehrt war von einigen Trainerkämpfen. Allerdings ist die Typkombination des jetzigen Teams nahezu perfekt gegen den Rivalen. Also war auch mit an geknuspertem Team der Rivale schnell besiegt. Er hat uns neben dem Preisgeld mit einer Warnung „beschenkt“, dass in Stand City eine Art Krankheit ihr Unwesen treibt und wir auf der Hut bleiben sollen. <br><br>
+Na das hört sich doch spannend an? Dazu später mehr…
